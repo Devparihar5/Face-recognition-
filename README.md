@@ -7,4 +7,4 @@ before running this code you should install these libraries::
 pip install cv2
 pip install face_recognition
 pip install numpy
-
+'''
